@@ -3,8 +3,8 @@
     {
       "name": "release",
       "latestVersionName": "v1.8.2",
-      "latestVersionCode": 60,
-      "minAPI": 23,
+      "latestVersionCode": 53,
+      "minAPI": 21,
       "url": "https://github.com/TVISIA/apk/raw/master/TV%20Webbrowser_1.8.2.apk",
       "urls": [
         "https://github.com/TVISIA/apk/raw/master/TV%20Webbrowser_1.8.2.apk"
@@ -13,8 +13,8 @@
     {
       "name": "beta",
       "latestVersionName": "v1.8.2",
-      "latestVersionCode": 60,
-      "minAPI": 23,
+      "latestVersionCode": 53,
+      "minAPI": 21,
       "url": "https://github.com/TVISIA/apk/raw/master/TV%20Webbrowser_1.8.2.apk",
       "urls": [
         "https://github.com/TVISIA/apk/raw/master/TV%20Webbrowser_1.8.2.apk"
@@ -25,12 +25,12 @@
   "changelog": [
     
     {
-      "versionCode": 57,
+      "versionCode": 52,
       "versionName": "v1.8.1",
       "changes": "* Some crashes fixed\n* Do not log temporary history in incognito mode (even temporary)\n* Trick to make play/pause remote media button work (experimental)\n* Fixed one problem of not opening magnet links on Android 11 and below\n* Fixed downloading in private folder problem on Android 12\n* Dropped support of Android 5.x"
     },
     {
-      "versionCode": 56,
+      "versionCode": 51,
       "versionName": "v1.8.0",
       "changes": "* Fixed crash on incognito mode switch\n* Fixed History delete function (thank you @shark-yn)\n* DRM content support fix\n* Added Polish translation (thank you @BadOmen)\n* Added Italian translation (thank you @Vladi69)\n* Added some other minor missing translations\n* Dependency & target android API level update"
     }
